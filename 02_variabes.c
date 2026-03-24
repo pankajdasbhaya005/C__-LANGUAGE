@@ -10,6 +10,8 @@ int main()
     return 0;
 }
 
+// yahan par ouput aayega 5 
+
 // code explanation:
 // int a;  yaha humne ek variable a declare kiya hai jiska type int(integer) hai
 // a=5;  yaha humne variable a ko 5 value assign ki hai
